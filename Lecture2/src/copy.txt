@@ -1,0 +1,5 @@
+This is a sample document. 
+
+We are going to use this in class to learn shell commands. 
+
+Let's see how far we get with this one.
